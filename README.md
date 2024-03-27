@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&repeat=false&random=false&width=665&lines=%E2%9C%A8Hey+I'm+Taha+Saif+%E2%9C%A8;%E2%9C%A8AI+Enthusiast+%E2%9C%A8;%E2%9C%A8A+passionate+Front-end+Developer+%E2%9C%A8+;%E2%9C%A8+Currently+Learning+Generative+AI%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&repeat=false&random=false&width=665&lines=%E2%9C%A8Hey+I'm+Taha+Saif+%E2%9C%A8;%E2%9C%A8AI+Enthusiast+%E2%9C%A8;%E2%9C%A8A+passionate+Frontend+Developer+%E2%9C%A8+;%E2%9C%A8+Currently+Learning+Generative+AI%E2%9C%A8)](https://git.io/typing-svg)
 
 		
 

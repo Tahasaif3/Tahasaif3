@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&repeat=false&random=false&width=665&lines=%E2%9C%A8Hey+I'm+Taha+Saif+%E2%9C%A8;%E2%9C%A8AI+Enthusiast+%E2%9C%A8;%E2%9C%A8A+passionate+Frontend+Developer+%E2%9C%A8+;%E2%9C%A8+Currently+Learning+Generative+AI%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&repeat=false&random=false&width=665&lines=%E2%9C%A8Hey+I'm+Taha+Saif+%E2%9C%A8;%E2%9C%A8Aspiring+AI+Enthusiast+%E2%9C%A8;%E2%9C%A8A+passionate+Frontend+Developer+%E2%9C%A8+;%E2%9C%A8+Currently+Learning+Generative+AI%E2%9C%A8)](https://git.io/typing-svg)
 
   <img align="right" alt="Coding" width="400" style="border-radius:20px;"
 	src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>

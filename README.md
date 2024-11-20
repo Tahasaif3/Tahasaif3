@@ -31,7 +31,32 @@
     <a href="https://youtube.com/@tahasaif7521" target="_blank"><img src="https://img.shields.io/badge/Youtube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F" alt="Taha Saif-Youtube"></a>
      <a href="https://www.fiverr.com/taha_084" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Taha Saif-fiverr"></a>
 </div>
+</p>	 
+<hr>
+<h2>:label: 🧩 GitHub Highlights</h2>
+<p align="center">
+  <!-- Contributions Badge -->
+  <img alt="Contributions" src="https://github-contributor-stats.vercel.app/api?username=Tahasaif3&limit=5&theme=dark&bg_color=000000" />
+</p>
 
+<div style="background-color: #000000; color: #ffffff; padding: 20px; border-radius: 10px; margin-top: 20px;">
+<p align="center">
+  <!-- Profile Views -->
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Tahasaif3&style=flat&color=000000&label=Profile+Views" />
+
+  <!-- Total Stars -->
+  <img alt="Total Stars" src="https://img.shields.io/github/stars/Tahasaif3?label=Total+Stars&style=flat-square&color=black" />
+
+  <!-- Followers -->
+  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Tahasaif3?style=flat-square&color=black" />
+  </div>
+  <hr style="border-color: #333333; margin: 20px 0;">
+<h2>:label: 🧩 Profile Badgess</h2>
+<p align="center">
+  <img alt="Contributors Badge" src="https://user-badge.committers.top/pakistan/YOUR_USERNAME.svg?color=black" />
+  <a href="https://github.com/sponsors/Tahasaif3">
+    <img alt="Sponsor Me" src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-black?logo=github" />
+  </a>
 </p>
 <hr>
 <p align="center">
@@ -40,11 +65,13 @@
 </p>
 <hr>
 
-<h2>:label: Github Stats</h2>
+<h2>:label: Languages</h2>
 
 <div>
  <a href="#"><img alt="Taha Saif.s Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharibali&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
-    <br>
+      <hr style="border-color: #333333; margin: 20px 0;">
+
+<h2>:label: Github Stats</h2>	
  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tahasaif3&show_icons=true&ccinclude_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px"/></a>
 </div>
 <hr>

@@ -88,8 +88,7 @@
 | <img src="https://img.shields.io/badge/-Rust-0D1117?style=flat-square&logo=rust&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Ethereum-0D1117?style=flat-square&logo=ethereum&logoColor=F0DB4F">  | <img src="https://img.shields.io/badge/-VSCode-0D1117?style=flat-square&logo=visualstudio&logoColor=F0DB4F">  | <br>
 <hr>
 <h2>⚡ Streaks</h2>
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tahasaif3&theme=dark&hide_border=true&border_radius=4.0" alt="GitHub Streak" /></a>
-<hr>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tahasaif3&theme=synthwave)](https://git.io/streak-stats)<hr>
 <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />

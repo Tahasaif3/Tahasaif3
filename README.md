@@ -87,8 +87,9 @@
 | <img src="https://img.shields.io/badge/-Solidity-0D1117?style=flat-square&logo=solidity&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-ChakraUi-0D1117?style=flat-square&logo=chakraui&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=F0DB4F">  | 
 | <img src="https://img.shields.io/badge/-Rust-0D1117?style=flat-square&logo=rust&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Ethereum-0D1117?style=flat-square&logo=ethereum&logoColor=F0DB4F">  | <img src="https://img.shields.io/badge/-VSCode-0D1117?style=flat-square&logo=visualstudio&logoColor=F0DB4F">  | <br>
 <hr>
-<h2>⚡ Streaks</h2>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tahasaif3&theme=synthwave)](https://git.io/streak-stats)<hr>
+## ⚡ Streaks
+[![Streak Stats](https://streak-stats.demolab.com/?user=Tahasaif3&theme=synthwave)](https://streak-stats.demolab.com/?user=Tahasaif3&theme=synthwave)
+
 <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />

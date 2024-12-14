@@ -89,7 +89,7 @@
 <hr>
 <h2>⚡Streaks</h2>
 <a href="https://github-readme-streak-stats.herokuapp.com?user=Tahasaif3&theme=dark">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Tahasaif3&theme=synthwave" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Tahasaif3&theme=dark" alt="GitHub Streak" />
 </a>
 <hr>
 <h2>🐍 My Contributions 🐍</h2>

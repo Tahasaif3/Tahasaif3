@@ -88,7 +88,7 @@
 | <img src="https://img.shields.io/badge/-Rust-0D1117?style=flat-square&logo=rust&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Ethereum-0D1117?style=flat-square&logo=ethereum&logoColor=F0DB4F">  | <img src="https://img.shields.io/badge/-VSCode-0D1117?style=flat-square&logo=visualstudio&logoColor=F0DB4F">  | <br>
 <hr>
 <h2>⚡Streaks</h2>
-<a href="https://github-readme-streak-stats.herokuapp.com?user=Tahasaif3&theme=synthwave">
+<a href="https://github-readme-streak-stats.herokuapp.com?user=Tahasaif3&theme=dark">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Tahasaif3&theme=synthwave" alt="GitHub Streak" />
 </a>
 <hr>

@@ -33,6 +33,10 @@
 </div>
 </p>	 
 <hr>
+<div align="center">
+  <a href="https://gitroll.io/profile/uEaDPTeJZQ8Ybd1sDHDD1Jhj0l4w1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uEaDPTeJZQ8Ybd1sDHDD1Jhj0l4w1" alt="GitRoll Profile Badge"/></a>
+</div>
+<hr>
 <h2>:label: 🧩 GitHub Highlights</h2>
 <p align="center">
   <!-- Contributions Badge -->

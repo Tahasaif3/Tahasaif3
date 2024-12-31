@@ -32,9 +32,19 @@
 </div>
 </p>	 
 <hr>
-<div align="center">
+<!-- <div align="center bg-black">
   <a href="https://gitroll.io/profile/uEaDPTeJZQ8Ybd1sDHDD1Jhj0l4w1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uEaDPTeJZQ8Ybd1sDHDD1Jhj0l4w1" alt="GitRoll Profile Badge"/></a>
-</div>
+</div> -->
+<table width="100%" align="center" style="background-color: black; border: none;">
+  <tr>
+    <td align="center">
+      <a href="https://gitroll.io/profile/uEaDPTeJZQ8Ybd1sDHDD1Jhj0l4w1" target="_blank">
+        <img src="https://gitroll.io/api/badges/profiles/v1/uEaDPTeJZQ8Ybd1sDHDD1Jhj0l4w1" alt="GitRoll Profile Badge" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <hr>
 <h2>:label: ✨ GitHub Achievements</h2>
 

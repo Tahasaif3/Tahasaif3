@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&repeat=true&random=false&width=665&lines=%E2%9C%A8Hey,+I'm+Taha+Saif+%E2%9C%A8;%E2%9C%A8Aspiring+AI+Enthusiast+%E2%9C%A8;%E2%9C%A8A+passionate+Frontend+Developer+%E2%9C%A8+;%E2%9C%A8+Currently+Learning+Gen+AI+and+Web+Development%E2%9C%A8)](https://git.io/typing-svg)
 <hr>
-  <img align="right" alt="Coding" width="400" height="280" style="border-radius:20px;"
+  <img align="right" alt="Coding" width="400" height="250" style="border-radius:20px;"
 	src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
 <h3 style="margin-top: 4px;">BUILDING & ENGAGING THE COMMUNITY</h3>

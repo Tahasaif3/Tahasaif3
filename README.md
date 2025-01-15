@@ -31,7 +31,7 @@
 <div>   
     <a href="mailto:tahasaif454@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Taha Saif - Email"></a>
     <a href="https://t.me/Tsaif22" target="_blank"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=F0DB4F" alt="Taha Saif -Telegram"></a>
-    <a href="https://x.com/Tsaiif589" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=F0DB4F" alt="Taha Saif-Twitter"></a>
+    <a href="https://www.upwork.com/freelancers/~0160fafdd5ae92e778" target="_blank"><img src="https://img.shields.io/badge/upwork-0D1117?style=for-the-badge&logo=upwork&logoColor=F0DB4F" alt="Taha Saif-upwork"></a>
     <a href="https://linkedin.com/in/taha-saif-842269261" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Taha Saif-Linkedin"></a><br>
     <a href="https://facebook.com/taha.saif.9026" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="Taha Saif- Facebook"></a>
     <a href="https://www.Instagram.com/taha_saif44/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="Taha Saif-Instagram"></a>

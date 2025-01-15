@@ -4,14 +4,22 @@
 	src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
 <h3 style="margin-top: 4px;">BUILDING & ENGAGING THE COMMUNITY</h3>
-• 💪🏻 I'm a Student, and AI Enthusiast.<br>
+<!-- • 💪🏻 I'm a Student, and AI Enthusiast.<br>
 • 🌱 I’m currently Learning Generative Ai Engineering.<br> 
 • 🚀 I'm a Consistent, Hard-working, and Motivated person.<br> 
 • 🌊 I'm a specialized  Frontend Developer.<br>
 • 👨‍💻 A Frontend Developer from Hyderabad, Pakistan.<br>
 • 📗 I'm currently Learning from GIAIC.<br>
 • ✨ I have 1+ years of experience in HTML CSS AND JAVASCRIPT AS A FRONTEND DEVELOPER ,Technical writing and Graphic Design.<br>
-• 📫 Reach me via Telegram DM (@Tsaif22).<br>
+• 📫 Reach me via Telegram DM (@Tsaif22).<br> -->
+💡 I'm a Student and Tech Enthusiast.<br>
+• 🌱 I’m currently diving into Cloud Applied Generative AI Engineering.<br>
+• 🚀 Consistent, Hard-working, and Passionate about delivering value through technology.<br>
+• 🌐 A Specialized Frontend Developer with expertise in Next.js, TypeScript, React, Tailwind CSS, and Sanity CMS.<br>
+• 👨‍💻 Based in Hyderabad, Pakistan, crafting dynamic and scalable web applications.<br>
+• 📖 Currently advancing my knowledge through the GIAIC program.<br>
+• ✨ 1+ years of hands-on experience in Frontend Development, including building modern, responsive UIs with cutting-edge tools and technologies.<br>
+• 💬 Always open to collaborations and opportunities. Let’s connect on Telegram (@Tsaif22).<br>
 <hr>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h3>

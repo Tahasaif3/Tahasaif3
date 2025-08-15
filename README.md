@@ -10,7 +10,8 @@
 • 🌊 I'm a specialized  Frontend Developer.<br>
 • 👨‍💻 A Frontend Developer from Hyderabad, Pakistan.<br>
 • 📗 I'm currently Learning from GIAIC.<br>
-• ✨ I have 1+ years of experience in HTML CSS AND JAVASCRIPT AS A FRONTEND DEVELOPER ,Technical writing and Graphic Design.<br>
+• ✨ I have 1+ years of experience in Next.js, React, Vite and some UI Frameworks AS A FRONTEND DEVELOPER<br>
+• 🖥 Proficient in backend frameworks and tools including FastAPI, OpenAI Agent SDK, and Node.js for building scalable and intelligent applications.
 • 📫 Reach me via Telegram DM (@Tsaif22).<br> -->
 💡 I'm a Student and Tech Enthusiast.<br>
 • 🌱 I’m currently diving into Cloud Applied Generative AI Engineering.<br>
@@ -18,7 +19,8 @@
 • 🌐 A Specialized Frontend Developer with expertise in Next.js, TypeScript, React, Tailwind CSS, and Sanity CMS.<br>
 • 👨‍💻 Based in Hyderabad, Pakistan, crafting dynamic and scalable web applications.<br>
 • 📖 Currently advancing my knowledge through the GIAIC program.<br>
-• ✨ 1+ years of hands-on experience in Frontend Development, including building modern, responsive UIs with cutting-edge tools and technologies.<br>
+• ✨ 2+ years of hands-on experience in Frontend Development, including building modern, responsive UIs with cutting-edge tools and technologies.<br>
+• 🖥 Proficient in backend frameworks and tools including FastAPI, OpenAI Agent SDK, and Node.js for building scalable and intelligent applications.<br>
 • 💬 Always open to collaborations and opportunities. Let’s connect on Telegram (@Tsaif22).<br>
 <hr>
 

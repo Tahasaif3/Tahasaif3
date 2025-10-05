@@ -126,7 +126,7 @@
 <hr>
 <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://res.cloudinary.com/dfsruso6z/image/upload/v1759702982/github-user-contribution_brwvzq.svg" />
 <hr>
 <p align="center">
 ❤️منزل سے آگے بڑھ کر منزل تلاش کر مل جائے تجھکو دریا تو سمندر تلاش کر❤️<br>

@@ -67,17 +67,7 @@
   <img alt="Contributions" src="https://github-contributor-stats.vercel.app/api?username=Tahasaif3&limit=5&theme=dark&bg_color=000000" />
 </p>
 
-<div style="background-color: #000000; color: #ffffff; padding: 20px; border-radius: 10px; margin-top: 20px;">
-<p align="center">
-  <!-- Profile Views -->
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Tahasaif3&style=flat&color=000000&label=Profile+Views" />
 
-  <!-- Total Stars -->
-  <img alt="Total Stars" src="https://img.shields.io/github/stars/Tahasaif3?label=Total+Stars&style=flat-square&color=black" />
-
-  <!-- Followers -->
-  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Tahasaif3?style=flat-square&color=black" />
-  </div>
   <hr style="border-color: #333333; margin: 20px 0;">
 <h2>:label: 🧩 Profile Badgess</h2>
 <p align="center">

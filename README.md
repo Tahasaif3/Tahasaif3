@@ -70,13 +70,7 @@
 
   <hr style="border-color: #333333; margin: 20px 0;">
 <h2>:label: 🧩 Profile Badgess</h2>
-<p align="center">
-  <img alt="Contributors Badge" src="https://user-badge.committers.top/pakistan/YOUR_USERNAME.svg?color=black" />
-  <a href="https://github.com/sponsors/Tahasaif3">
-    <img alt="Sponsor Me" src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-black?logo=github" />
-  </a>
-</p>
-<hr>
+
 <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>

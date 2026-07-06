@@ -1,122 +1,116 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&repeat=true&random=false&width=665&lines=%E2%9C%A8Hey,+I'm+Taha+Saif+%E2%9C%A8;%E2%9C%A8Aspiring+AI+Enthusiast+%E2%9C%A8;%E2%9C%A8A+passionate+Frontend+Developer+%E2%9C%A8+;%E2%9C%A8+Currently+Learning+Gen+AI+and+Web+Development%E2%9C%A8)](https://git.io/typing-svg)
-<hr>
-  <img align="right" alt="Coding" width="400" height="250" style="border-radius:20px;"
-	src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+<div align="center">
 
-<h3 style="margin-top: 4px;">BUILDING & ENGAGING THE COMMUNITY</h3>
-<!-- • 💪🏻 I'm a Student, and AI Enthusiast.<br>
-• 🌱 I’m currently Learning Generative Ai Engineering.<br> 
-• 🚀 I'm a Consistent, Hard-working, and Motivated person.<br> 
-• 🌊 I'm a specialized  Frontend Developer.<br>
-• 👨‍💻 A Frontend Developer from Hyderabad, Pakistan.<br>
-• 📗 I'm currently Learning from GIAIC.<br>
-• ✨ I have 1+ years of experience in Next.js, React, Vite and some UI Frameworks AS A FRONTEND DEVELOPER<br>
-• 🖥 Proficient in backend frameworks and tools including FastAPI, OpenAI Agent SDK, and Node.js for building scalable and intelligent applications.
-• 📫 Reach me via Telegram DM (@Tsaif22).<br> -->
-💡 I'm a Student and Tech Enthusiast.<br>
-• 🌱 I’m currently diving into Cloud Applied Generative AI Engineering.<br>
-• 🚀 Consistent, Hard-working, and Passionate about delivering value through technology.<br>
-• 🌐 A Specialized Frontend Developer with expertise in Next.js, TypeScript, React, Tailwind CSS, and Sanity CMS.<br>
-• 👨‍💻 Based in Hyderabad, Pakistan, crafting dynamic and scalable web applications.<br>
-• 📖 Currently advancing my knowledge through the GIAIC program.<br>
-• ✨ 2+ years of hands-on experience in Frontend Development, including building modern, responsive UIs with cutting-edge tools and technologies.<br>
-• 🖥 Proficient in backend frameworks and tools including FastAPI, OpenAI Agent SDK, and Node.js for building scalable and intelligent applications.<br>
-• 💬 Always open to collaborations and opportunities. Let’s connect on Telegram (@Tsaif22).<br>
-<hr>
+```
+████████╗ █████╗ ██╗  ██╗ █████╗     ███████╗ █████╗ ██╗███████╗
+╚══██╔══╝██╔══██╗██║  ██║██╔══██╗    ██╔════╝██╔══██╗██║██╔════╝
+   ██║   ███████║███████║███████║    ███████╗███████║██║█████╗  
+   ██║   ██╔══██║██╔══██║██╔══██║    ╚════██║██╔══██║██║██╔══╝  
+   ██║   ██║  ██║██║  ██║██║  ██║    ███████║██║  ██║██║██║     
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝╚═╝     
+```
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h3>
- 
- 
-<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=F0DB4F&center=true&vCenter=true&width=700&lines=AI+%2B+Full+Stack+Engineer+%C2%B7+3.5%2B+years;Co-Founder+%26+Tech+Lead+%40+AgentraX;Building+AI+agents%2C+SaaS%2C+and+mobile+apps;Next.js+%C2%B7+FastAPI+%C2%B7+Flutter+%C2%B7+OpenAI+Agent+SDK)](https://git.io/typing-svg)
 
- <div align="center"  class="icons-social" style="margin-center: 10px;">
-<div>   
-    <a href="mailto:tahasaif454@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Taha Saif - Email"></a>
-    <a href="https://t.me/Tsaif22" target="_blank"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=F0DB4F" alt="Taha Saif -Telegram"></a>
-    <a href="https://www.upwork.com/freelancers/~0160fafdd5ae92e778" target="_blank"><img src="https://img.shields.io/badge/upwork-0D1117?style=for-the-badge&logo=upwork&logoColor=F0DB4F" alt="Taha Saif-upwork"></a>
-    <a href="https://linkedin.com/in/taha-saif-842269261" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Taha Saif-Linkedin"></a><br>
-    <a href="https://facebook.com/taha.saif.9026" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="Taha Saif- Facebook"></a>
-    <a href="https://www.Instagram.com/taha_saif44/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="Taha Saif-Instagram"></a>
-    <a href="https://youtube.com/@tahasaif7521" target="_blank"><img src="https://img.shields.io/badge/Youtube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F" alt="Taha Saif-Youtube"></a>
-     <a href="https://www.fiverr.com/taha_084" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Taha Saif-fiverr"></a>
 </div>
-</p>	 
-<hr>
-<!-- <div align="center bg-black">
-  <a href="https://gitroll.io/profile/uEaDPTeJZQ8Ybd1sDHDD1Jhj0l4w1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uEaDPTeJZQ8Ybd1sDHDD1Jhj0l4w1" alt="GitRoll Profile Badge"/></a>
-</div> -->
-<table width="100%" align="center" style="background-color: black; border: none;">
-  <tr>
-    <td align="center">
-      <a href="https://gitroll.io/profile/uEaDPTeJZQ8Ybd1sDHDD1Jhj0l4w1" target="_blank">
-        <img src="https://gitroll.io/api/badges/profiles/v1/uEaDPTeJZQ8Ybd1sDHDD1Jhj0l4w1" alt="GitRoll Profile Badge" />
-      </a>
-    </td>
-  </tr>
-</table>
 
-<hr>
-<h2>:label: ✨ GitHub Achievements</h2>
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tahasaif3&theme=onedark&row=2&column=3)](https://github.com/Tahasaif3/github-profile-trophy)
+```bash
+taha@dev:~$ whoami
 
-<hr>
-<h2>:label: 🧩 GitHub Highlights</h2>
-<p align="center">
-  <!-- Contributions Badge -->
-  <img alt="Contributions" src="https://github-contributor-stats.vercel.app/api?username=Tahasaif3&limit=5&theme=dark&bg_color=000000" />
-</p>
+  Name     : Taha Saif
+  Role     : AI / Full Stack Engineer  ·  Co-Founder & Tech Lead, AgentraX
+  Currently: Tecmyer(Junior Web Dev)  ·  Zensbot (remote)
+  Location : Hyderabad, Sindh, Pakistan
+  Focus    : AI Agents · SaaS Products · Full Stack Web & Mobile
+  Status   : Open to interesting collabs & opportunities ✅
+```
 
+---
 
-  <hr style="border-color: #333333; margin: 20px 0;">
-<h2>:label: 🧩 Profile Badgess</h2>
+## `> what.i.build`
 
-<p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
-</p>
-<hr>
+```python
+work = {
+	 "Innoscribe" : "AI / Full Stack Engineer — building the Jobobike client platform",    "ZENSBOT"    : "AI-powered mock exam platform for institutes (ACCA, IELTS, CA-ICAP, Matric/FSc)",
+   "ZENSBOT"    : "AI-powered mock exam platform for institutes (ACCA, IELTS, CA-ICAP, Matric/FSc)",
+    "FAARBE"     : "Flutter home-painting app — AI color visualizer + painter booking marketplace",
+    "Dispatch AI": "Trucking dispatch mobile app (Flutter + FastAPI + Firebase + Cloud Run)",
+}
+```
 
-<h2>:label: Languages</h2>
+---
 
-<div>
- <a href="#"><img alt="Taha Saif.s Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharibali&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
-      <hr style="border-color: #333333; margin: 20px 0;">
+## `> tech.stack`
 
-<h2>:label: Github Stats</h2>	
- <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tahasaif3&show_icons=true&ccinclude_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px"/></a>
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Frontend & Mobile**
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Data**
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**AI / Agents**
+
+![OpenAI](https://img.shields.io/badge/-OpenAI_Agent_SDK-412991?style=flat-square&logo=openai&logoColor=white)
+
+---
+
+## `> pinned.projects`
+
+| Project | Description | Stack |
+|---|---|---|
+| **⬡ Jobobike** | Norwegian e-commerce bike platform — built at Innoscribe, Norwegian-language UI | `Next.js` `TypeScript` |
+| **⬡ ZENSBOT** | AI-powered mock exam platform for institutes (ACCA, IELTS, CA-ICAP, Matric, FSc) | `Next.js` `FastAPI` `AI` |
+| **⬡ FAARBE** | Home painting app with AI color visualizer + painter booking marketplace | `Flutter` `FastAPI` |
+| **⬡ [TaskFlow](https://github.com/Tahasaif3/Hackathon-Todo-AI-Evolution)** | Multi-phase project evolving a Todo app from CLI to a cloud-native, AI-powered distributed system | `TypeScript` |
+| **⬡ Trucking Dispatch App** | Dispatch & load-management mobile app inspired by TruckSmarter | `Flutter` `FastAPI` `Firebase` `Cloud Run` |
+
+---
+
+## `> github.stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tahasaif3&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F0DB4F&icon_color=F0DB4F&text_color=c9d1d9&count_private=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahasaif3&layout=compact&hide_border=true&bg_color=0d1117&title_color=F0DB4F&text_color=c9d1d9&langs_count=6" />
+
 </div>
-<hr>
-<h2>⚡ Skills</h2>
 
-| # | # | # | # |
-| :------------ | :--------------- | :----- | :----- 
-| <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Windows-0D1117?style=flat-square&logo=Windows&logoColor=F0DB4F"> |
-| <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"> | 
-| <img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-SASS-0D1117?style=flat-square&logo=sass&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Remix-0D1117?style=flat-square&logo=remix&logoColor=F0DB4F"> | 
-| <img src="https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=next.js&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-TailwindCSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=F0DB4F"> |
-| <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Styled Component-0D1117?style=flat-square&logo=styledcomponents&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Canva-0D1117?style=flat-square&logo=canva&logoColor=F0DB4F"> | 
-| <img src="https://img.shields.io/badge/-Solidity-0D1117?style=flat-square&logo=solidity&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-ChakraUi-0D1117?style=flat-square&logo=chakraui&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=F0DB4F">  | 
-| <img src="https://img.shields.io/badge/-Rust-0D1117?style=flat-square&logo=rust&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Ethereum-0D1117?style=flat-square&logo=ethereum&logoColor=F0DB4F">  | <img src="https://img.shields.io/badge/-VSCode-0D1117?style=flat-square&logo=visualstudio&logoColor=F0DB4F">  | <br>
-<hr>
-<h2>⚡Streaks</h2>
-<a href="https://github-readme-streak-stats.herokuapp.com?user=Tahasaif3&theme=dark&bg_color=0D1117">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Tahasaif3&theme=dark&bg_color=0D1117" alt="GitHub Streak" />
-</a>
-<hr>
-<h2>🔝 Top Contributed Repo </h2>
-<a href="https://github-contributor-stats.vercel.app/api?username=Tahasaif3&limit=5&theme=dracula&combine_all_yearly_contributions=true">
-<img src="https://github-contributor-stats.vercel.app/api?username=Tahasaif3&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repsitorys">
-<hr>
-<h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://res.cloudinary.com/dfsruso6z/image/upload/v1759702982/github-user-contribution_brwvzq.svg" />
-<hr>
-<p align="center">
-❤️منزل سے آگے بڑھ کر منزل تلاش کر مل جائے تجھکو دریا تو سمندر تلاش کر❤️<br>
-❤️ہر شخص جل رہا ہے عداوت کی آگ میں اس آگ کو بجھا دے وہ پانی تلاش کر❤️<br>
-❤️سجدوں سے تیرے کیا ہوا صدیاں گزر گئیں دنیا تیری بدل دے وہ سجدہ تلاش کر ❤️<br>
-❤️ہر شیشہ ٹوٹ جاتا ہے پتھر کی چوٹ سے پتھر بھی ٹوٹ جائے وہ شیشہ تلاش کر ❤️<br>
-❤️ستاروں سے آگے جہاں اور بھی ہیں ابھی عشق کے امتحاں اور بھی ہیں ❤️<br>
+<div align="center">
 
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tahasaif3&theme=dark&hide_border=true&background=0d1117&ring=F0DB4F&fire=F0DB4F&currStreakLabel=F0DB4F)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `> connect`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://tahaa-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-saif-842269261)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahasaif454@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tahasaif3)
+
+</div>
+
+<div align="center">
+  <sub><code>// AI + Full Stack — shipping products, not just prototypes</code></sub>
+</div>

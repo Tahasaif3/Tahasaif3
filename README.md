@@ -93,9 +93,9 @@ Built Jobobike, a job-matching platform, owning features across frontend and bac
 `September 2025 – October 2025`
 Shipped multiple production-style projects: an AI blogging platform, a luxury supercar marketing site (Lambo Redux), and a full e-commerce site clone with dynamic routing and SEO optimization.
 
-**Web Designing Intern — Digital Sindh Institute of Management and Technology** · Hyderabad
-`August 2024 – November 2024`
-Hands-on experience in responsive design, layout structuring, and UI/UX fundamentals using HTML, CSS, and Bootstrap.
+**Full Stack Developer — Code Axis Technologies** · Remote / International Clients
+`July 2025 – May 2026`
+Worked on client projects and cross-platform mobile apps built with React Native for global and international clients — delivered 10+ successful projects.
 
 <br/>
 

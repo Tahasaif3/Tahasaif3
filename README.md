@@ -61,6 +61,16 @@ Currently expanding into **Agentic AI** to build smarter, more automated applica
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:1e1b4b,100:050816&height=55&text=Highlights&fontSize=22&fontColor=22D3EE&fontAlignY=60&width=1200" width="100%"/>
+
+- 🚀 10+ production freelance projects
+- 🌍 Worked with clients in Norway & Australia
+- 🤖 Built real-time AI Voice Pipeline (STT → LLM → TTS)
+- 🥉 Panaversity Hackathon Bronze
+- 💼 MERN • Next.js • FastAPI
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:1e1b4b,100:050816&height=55&text=Tech%20Stack&fontSize=22&fontColor=22D3EE&fontAlignY=60&width=1200" width="100%"/>
 
 <div align="center">
@@ -87,7 +97,7 @@ Contributing to a multi-institute exam SaaS platform — core web modules, respo
 
 **Full Stack Engineer — Innoscribe** · Norway (Remote)
 `November 2025 – May 2026`
-Built Jobobike, a job-matching platform, owning features across frontend and backend. Developed a real-time AI voice pipeline (STT + LLM conversation logic + TTS) for a Norwegian-market client.
+Built Jobobike, an e-commerce platform for e-bicycles, owning features across frontend and backend. Developed a real-time AI voice pipeline (STT + LLM conversation logic + TTS) for a Norwegian-market client.
 
 **Next.js Developer Intern — UXGENIE** · Karachi
 `September 2025 – October 2025`
@@ -152,6 +162,19 @@ Worked on client projects and cross-platform mobile apps built with React Native
 **Repository:** [github.com/Tahasaif3/physical-ai-robotics](https://github.com/Tahasaif3/physical-ai-robotics)
 
 </details>
+
+<br/>
+
+**Client Work** (private client repositories — no public links)
+
+<table>
+<tr><td><b>Mediglobal</b></td><td>Web platform for a healthcare client — 96% Google Lighthouse Performance Score</td></tr>
+<tr><td><b>Oenodpay</b></td><td>Mobile wallet app — React Native</td></tr>
+<tr><td><b>CanFix</b></td><td>Instant, AI-powered app for real-time mobile repair services</td></tr>
+<tr><td><b>MyCourier</b></td><td>Courier management platform (TCS-style) — React + Node.js</td></tr>
+<tr><td><b>LaunchLabs</b></td><td>Platform for early-stage startups to apply for investment — maintained by me</td></tr>
+<tr><td><b>Copy Trading Platform</b></td><td>Landing page, admin dashboard, and app built for a client's copy trading platform</td></tr>
+</table>
 
 <br/>
 

@@ -155,7 +155,7 @@ Hands-on experience in responsive design, layout structuring, and UI/UX fundamen
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:1e1b4b,100:050816&height=55&text=Education%20%26%20Training&fontSize=22&fontColor=22D3EE&fontAlignY=60&width=1200" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:1e1b4b,100:050816&height=55&text=Education%20and%20Training&fontSize=22&fontColor=22D3EE&fontAlignY=60&width=1200" width="100%"/>
 
 - **Governor Sindh Initiative for GenAI, Web3, and Metaverse** — Senior Student · `Feb 2024 – Present`
 - **S.M.I.T (Saylani Mass I.T Training)** — Web & Mobile App Development · `Feb 2024 – Jul 2025`

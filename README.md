@@ -191,23 +191,7 @@ Open To:
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Tahasaif3&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
-&nbsp;
 <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Tahasaif3&theme=tokyonight&border_radius=10&hide_border=false" />
-
-<br/><br/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahasaif3&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:1e1b4b,100:050816&height=55&text=GitHub%20Trophies&fontSize=22&fontColor=22D3EE&fontAlignY=60&width=1200" width="100%"/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tahasaif3&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4"/>
 
 </div>
 

@@ -193,6 +193,10 @@ Open To:
 
 <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Tahasaif3&theme=tokyonight&border_radius=10&hide_border=false" />
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Tahasaif3/Tahasaif3/main/metrics.svg" width="100%"/>
+
 </div>
 
 <br/>

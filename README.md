@@ -20,7 +20,7 @@
 </p>
 
 <p>
-  <a href="https://tahaa-portfolio.vercel.app/" target="_blank">
+  <a href="https://taha-saif-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
@@ -229,7 +229,7 @@ Open To:
   <img src="https://img.shields.io/badge/GitHub-Tahasaif3-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://tahaa-portfolio.vercel.app/" target="_blank">
+<a href="https://taha-saif-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Live_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
